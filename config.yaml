@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://www.sunqao.top/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -68,7 +68,7 @@ params:
       src: img/avatar.png
 
   article:
-    math: false
+    math: true
     toc: true
     readingTime: true
     license:

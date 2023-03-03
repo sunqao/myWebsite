@@ -12,10 +12,6 @@ description: 第一次课总结
 image: 1.jpg
 ---
 
-# 算法基础（一）:排序，二分，高精度
-
-![1](https://typora-1310242472.cos.ap-nanjing.myqcloud.com/typora_img/1.jpg)
-
 如何提高能力？
 
 1. 上课理解思想
